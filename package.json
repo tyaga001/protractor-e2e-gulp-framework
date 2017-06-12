@@ -1,0 +1,19 @@
+{
+  "name": "protractor_test_e2e",
+  "version": "1.0.0",
+  "description": "e2e_test_leveraging_gulp_runner",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp-e2e"
+  },
+  "author": "ankur tyagi",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-angular-protractor": "^1.0.0",
+    "log4js": "^1.1.1",
+    "protractor": "^5.1.2",
+    "protractor-jasmine2-html-reporter": "0.0.7",
+    "require-dir": "^0.3.2"
+  }
+}
