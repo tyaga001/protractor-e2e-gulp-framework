@@ -1,0 +1,14 @@
+######################################
+
+[firefox #11] Started
+[firefox #11] .beforeAll
+[firefox #11] beforeEach
+[firefox #11] Sample Test 1
+[firefox #11] afterEach
+[firefox #11] .beforeEach
+[firefox #11] Sample Test 2
+[firefox #11] afterEach
+[firefox #11] .afterAll
+
+#######################################
+
